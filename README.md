@@ -20,7 +20,7 @@ Endpoints define the whole CRUD operations that can be performed on Person entit
 
 - Python >= 3.7
 - Requirements listed on [requirements.txt](requirements.txt)
-- Running MongoDB server
+- Running MYSQL server
 
 ## Infrastructure
 
